@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\test\WorkFlow4\", "D:\test\WorkFlow4\", "{7CAAD393-B55F-49A4-9BC2-20BD9AC6AA1F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/WorkFlow4"
+		Debug.AspNetCompiler.PhysicalPath = "D:\test\WorkFlow4\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WorkFlow4\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WorkFlow4"
+		Release.AspNetCompiler.PhysicalPath = "D:\test\WorkFlow4\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WorkFlow4\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53446"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CAAD393-B55F-49A4-9BC2-20BD9AC6AA1F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{7CAAD393-B55F-49A4-9BC2-20BD9AC6AA1F}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
